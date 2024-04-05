@@ -23,6 +23,6 @@
   Create during ASU Bootcamp for coding 
   
   ## Questions
-  find me on GitHub: [Rojas259](http://gtihub.com/Rojas259)
+  find me on GitHub: [Rojas259](https://github.com/Rojas259)
 
   contract email me at: [miguelrojas259@gmail.com](mailto:miguelrojas259@gmail.com)
